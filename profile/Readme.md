@@ -48,8 +48,8 @@
 
 ## 팀원 소개
 
-|                유효주                |                                               이정현                                               |                             임연우                              |
-|:---------------------------------:|:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
-| [oohyj](https://github.com/oohyj) |                      [Jeong-Hyeon-Lee](https://github.com/Jeong-Hyeon-Lee)                      |        [Lim-YeonWoo](https://github.com/Lim-YeonWoo)         |
-|             프론트엔드 개발              |                                             백엔드 개발                                              |                            AI 개발                             |
-|https://github.com/JeongHyoYeon/Capstone-FE| https://github.com/JeongHyoYeon/Capstone-BE  https://github.com/JeongHyoYeon/Capstone-AI-deploy | https://github.com/JeongHyoYeon/Capstone-CV-FaceRecognition https://github.com/JeongHyoYeon/Capstone-CV-YOLOv5 |
+|        Name        |                유효주                |                                               이정현                                               |                             임연우                              |
+|:------------------:|:---------------------------------:|:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| **Github Profile** | [oohyj](https://github.com/oohyj) |                      [Jeong-Hyeon-Lee](https://github.com/Jeong-Hyeon-Lee)                      |        [Lim-YeonWoo](https://github.com/Lim-YeonWoo)         |
+|      **Role**      |             프론트엔드 개발              |                                             백엔드 개발                                              |                            AI 개발                             |
+|   **Repository**   |https://github.com/JeongHyoYeon/Capstone-FE| https://github.com/JeongHyoYeon/Capstone-BE  https://github.com/JeongHyoYeon/Capstone-AI-deploy | https://github.com/JeongHyoYeon/Capstone-CV-FaceRecognition https://github.com/JeongHyoYeon/Capstone-CV-YOLOv5 |
